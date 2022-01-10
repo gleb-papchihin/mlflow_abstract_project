@@ -1,2 +1,2 @@
-# Abstract Mlflow Project
+# MLFlow: Abstract project
 
